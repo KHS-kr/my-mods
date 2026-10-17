@@ -1,0 +1,6 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "KHS-kr" },
+  "description": "Claude Code mods by KHS-kr.",
+  "plugins": [{ "name": "token-weather", "source": "./token-weather" }]
+}

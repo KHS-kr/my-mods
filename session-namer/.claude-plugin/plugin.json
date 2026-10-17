@@ -1,0 +1,5 @@
+{
+  "name": "session-namer",
+  "version": "0.1.0",
+  "description": "Asks for a session name when a session starts or is cleared."
+}
